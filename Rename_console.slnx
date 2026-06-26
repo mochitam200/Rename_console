@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Rename_console.vcxproj" Id="fcbc9ea8-ac28-489a-96a8-88c93d6569e5" />
+</Solution>
